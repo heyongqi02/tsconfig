@@ -8,8 +8,7 @@
     "url": "git+https://github.com/heyongqi02/tsconfig.git"
   },
   "files": [
-    "dist",
-    "README.md"
+    "configs"
   ],
   "type": "module",
   "sideEffects": false,
@@ -29,8 +28,7 @@
   "devDependencies": {
     "@bjmhe/viteplus-preset": "^2.0.10",
     "@tsconfig/node24": "^24.0.4",
-    "@types/node": "^25.9.2",
-    "@typescript/native-preview": "7.0.0-dev.20260604.1",
+    "@types/node": "^25.9.3",
     "bumpp": "^11.1.0",
     "typescript": "^6.0.3",
     "vite-plus": "^0.1.24"
