@@ -5,20 +5,13 @@
     "configs"
   ],
   "type": "module",
-  "publishConfig": {
-    "repository": "https://registry.npmjs.org/",
-    "access": "public"
-  },
   "devDependencies": {
     "@bjmhe/viteplus-preset": "^2.0.10",
     "@tsconfig/node24": "^24.0.4",
     "@types/node": "^25.9.3",
     "bumpp": "^11.1.0",
-    "typescript": "^6.0.3",
-    "vite-plus": "^0.1.24"
-  },
-  "engines": {
-    "node": ">=24.16.0"
+    "oxfmt": "^0.54.0",
+    "typescript": "^6.0.3"
   },
   "packageManager": "pnpm@11.4.0"
 }
