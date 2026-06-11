@@ -30,7 +30,7 @@
     "@bjmhe/viteplus-preset": "^2.0.10",
     "@tsconfig/node24": "^24.0.4",
     "@types/node": "^25.9.2",
-    "@typescript/native-preview": "7.0.0-dev.20260604.1",
+    "@typescript/native-preview": "7.0.0-dev.20260610.1",
     "bumpp": "^11.1.0",
     "typescript": "^6.0.3",
     "vite-plus": "^0.1.24"
