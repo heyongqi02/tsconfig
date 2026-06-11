@@ -1,6 +1,9 @@
 {
   "name": "@heyongqi/tsconfig",
   "version": "0.0.3",
+  "repository": {
+    "url": "https://github.com/heyongqi02/tsconfig.git"
+  },
   "files": [
     "configs"
   ],
