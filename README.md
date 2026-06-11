@@ -20,6 +20,6 @@ Reference a preset via `extends` in your `tsconfig.json`:
 
 ## Available presets
 
-| Preset | Description |
-| --- | --- |
+| Preset                                 | Description                     |
+| -------------------------------------- | ------------------------------- |
 | `configs/node24/library/tsconfig.json` | Config for Node.js 24 libraries |
