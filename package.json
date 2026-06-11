@@ -4,9 +4,6 @@
   "repository": {
     "url": "https://github.com/heyongqi02/tsconfig.git"
   },
-  "files": [
-    "configs"
-  ],
   "type": "module",
   "devDependencies": {
     "@bjmhe/viteplus-preset": "^2.0.10",
