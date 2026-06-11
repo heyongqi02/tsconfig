@@ -15,10 +15,6 @@
     "repository": "https://registry.npmjs.org/",
     "access": "public"
   },
-  "scripts": {
-    "build": "vp pack",
-    "prepublishOnly": "vp run build"
-  },
   "devDependencies": {
     "@bjmhe/viteplus-preset": "^2.0.10",
     "@tsconfig/node24": "^24.0.4",
