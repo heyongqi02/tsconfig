@@ -1,12 +1,3 @@
-import { nodeLib } from "@bjmhe/viteplus-preset";
+import { lib } from "@bjmhe/viteplus-preset";
 
-export default nodeLib(
-  {},
-  {
-    pack: {
-      exports: {
-        bin: true,
-      },
-    },
-  },
-);
+export default lib();
