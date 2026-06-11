@@ -11,18 +11,12 @@
     "configs"
   ],
   "type": "module",
-  "sideEffects": false,
-  "exports": {
-    "./tsconfig.json": "./tsconfig.json",
-    "./package.json": "./package.json"
-  },
   "publishConfig": {
     "repository": "https://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {
     "build": "vp pack",
-    "dev": "vp pack --watch",
     "prepublishOnly": "vp run build"
   },
   "devDependencies": {
